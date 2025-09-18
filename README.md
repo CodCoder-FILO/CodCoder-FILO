@@ -1,6 +1,6 @@
 ## Hello ! ヾ(￣▽￣)
 
-Here are some ideas to get you started:
+I’m just a freshman at Bilkent, nothing much to say about me yet.
 
 - 🔭 I’m currently working on: Financial trade algorithms usin Python
 - 🌱 I’m currently Learning: Java!!!
